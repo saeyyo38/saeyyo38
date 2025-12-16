@@ -1,5 +1,5 @@
 ## Hola. 안녕하세요. 
-Someone striving to be a data scientist. It's like Scott Pilgrim vs. The World but more like vs. AI.
+What even is a a data scientist??? Hello? Kinda like Scott Pilgrim (me) vs. The World (LLMs) 
 <!--
 I'm c
 -->
